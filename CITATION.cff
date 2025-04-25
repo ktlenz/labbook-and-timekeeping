@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: 'Lab book and time keeping'
+message: >-
+  If you use this software, please cite it using the  metadata from this file.
+type: software
+authors:
+  - email: kilian.lenz@uni-potsdam.de
+    given-names: Kilian Theo
+    family-names: Lenz
+    affilition: University of Potsdam, Institute of Environmental Science and Geography & Institute of Physics
+repository-code: >-
+  
+abstract: >-
+  This software was created as a side project to keep track of time spent working on TopoToolbox. 
+  It is not intended for public use, but is available for anyone who wants to use it. 
+  It is a simple time tracking tool that allows you to log your work hours and keep track of your progress on different tasks.
+license: MIT License
+version: 1.0.0 
+date-released: '2025-01-17'
